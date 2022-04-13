@@ -17,7 +17,6 @@ This test aims to evaluate the following candidate skills :
 ### Team player skills
 
 - the ability to use tools or patterns in order to improve productivity, robust code
-- the ability to write code that will be read and modified by other people
 
 ### Workflow
 
