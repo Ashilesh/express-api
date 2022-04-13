@@ -26,7 +26,7 @@ This test aims to evaluate the following candidate skills :
 
 ## Guidelines
 
-- code should be clean (Latest ECMA syntax, safe Typescript, layer separation)
+- code should be clean (Latest ECMA syntax, layer separation)
 - tests should be present (Show your best skills : TDD, unit, integration and more)
 - Assume that only `npm`, `yarn` and `node` LTS are already installed
 - documentation files should be added
