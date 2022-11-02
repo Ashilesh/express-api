@@ -2,7 +2,7 @@ import express from 'express'
 import { router } from './api-routes/routes.js'
 import { invalidRouter } from './api-routes/invalid-route.js'
 
-const app = express()
+export const app = express()
 
 
 app.use(express.json())
