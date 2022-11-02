@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { ErrorResponse } from "../model/error-response.js";
+import { ErrorResponse } from "../model/response/error-response.js";
 
 export const invalidRouter = Router()
 
