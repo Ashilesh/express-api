@@ -90,10 +90,12 @@
         ],
         "properties": {
           "username": {
-            "type": "string"
+            "type": "string",
+            "description": "length must be greater than 3 and less than 128"
           },
           "password": {
-            "type": "string"
+            "type": "string",
+            "description": "length must be greater than 3 and less than 128"
           }
         }
       },
